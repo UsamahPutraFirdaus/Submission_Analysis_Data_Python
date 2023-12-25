@@ -2,7 +2,7 @@
 
 # Setup environment
 ```
-!pip install streamlit
+!pip install streamlit pandas matplotlib seaborn datetime
 ```
 
 # Make steamlit app
