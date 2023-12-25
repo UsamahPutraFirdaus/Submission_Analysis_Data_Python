@@ -2,6 +2,7 @@
 
 # Setup environment
 ```
+conda activate main-ds
 !pip install streamlit pandas matplotlib seaborn datetime
 ```
 
